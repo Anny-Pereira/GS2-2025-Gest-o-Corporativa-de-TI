@@ -1,1 +1,1 @@
-💻 Global Solution de Gestão Corporativa em TI 💻
+💻 Global Solution de Gestão Corporativa em TI 
