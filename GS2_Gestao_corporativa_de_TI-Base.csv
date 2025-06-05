@@ -1,0 +1,13 @@
+ID_Evento,Data,UF,Cidade,TipoEvento,PessoasAfetadas,CustoEstimadoMil,NivelGravidade,AbrigosAbertos
+EV001,2025-01-12,RS,Porto Alegre,Enchente,5400,7850,Alto,12
+EV002,2025-02-03,RJ,Petrópolis,Deslizamento,1320,2390,Médio,3
+EV003,2025-03-18,SP,Campinas,Tempestade,710,920,Baixo,1
+EV004,2025-04-07,BA,Salvador,Seca Prolongada,18000,11000,Alto,4
+EV005,2025-05-15,AM,Manaus,Calor Extremo,4200,560,Médio,0
+EV006,2025-06-22,MG,Belo Horizonte,Granizo,980,2300,Médio,2
+EV007,2025-07-03,MA,São Luís,Inundação,8900,6730,Alto,9
+EV008,2025-08-19,PE,Recife,Enchente,13400,8300,Alto,7
+EV009,2025-09-28,CE,Fortaleza,Ventos Fortes,3000,1890,Médio,1
+EV010,2025-10-10,PR,Curitiba,Geada Intensa,1200,1540,Baixo,0
+EV011,2025-11-13,SP,Ribeirão Preto,Tempestade,2110,1120,Baixo,1
+EV012,2025-12-05,RS,Caxias do Sul,Enchente,4600,5090,Alto,5
